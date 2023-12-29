@@ -1,0 +1,8 @@
+{
+  "name": "til-2024",
+  "version": "1.0.0",
+  "description": "This project is for storage all \"things I learn\" on 2024.",
+  "main": "index.js",
+  "author": "maitrongnhan99",
+  "license": "MIT"
+}
