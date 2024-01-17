@@ -13,3 +13,13 @@ _Docusaurus is an open source static site generator optimized for creating docum
 
 
 https://docusaurus.io/docs
+
+
+## Clerk
+_The easy solution to
+Next.js authentication
+Magic links, social sign-in, multifactor auth, and more – 
+added to your application in minutes._
+
+
+https://clerk.com/solutions/nextjs-authentication
